@@ -10,7 +10,7 @@
 <a href="https://twitter.com/fkncela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fkncela" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/filipecela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipecela" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13999817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13999817" height="30" width="40" /></a>
-<a href="https://instagram.com/404brasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="404brasil" height="30" width="40" /></a>
+<a href="https://instagram.com/fcela.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fcela.s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
