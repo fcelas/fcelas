@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filipe (aka. Cela)</h1>
-<h4 align="center">Front-end developer</h4>
+<h4 align="center">Cloud | DevOps | SRE | AWS | Node.js</h4>
 
 
 
