@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Filipe (aka. Cela)</h1>
-<h3 align="center">Cloud | DevOps | SRE | AWS | Node.js</h3>
+<h3 align="center">Cloud | DevOps | SRE | AWS | GCP</h3>
 <h3 align="center">🏆<a href="https://en.wikipedia.org/wiki/You_(Time_Person_of_the_Year)#:~:text=%22You%22%20was%20the%20official%20choice,other%20websites%20featuring%20user%20contribution." target="blank">2006 Time Person of the Year</a>🏆</h3>
 
 <p align="center"> <a href="https://twitter.com/fkncela" target="blank"><img src="https://img.shields.io/twitter/follow/fkncela?logo=twitter&style=for-the-badge" alt="fkncela" /></a> </p>
 
-- **💻 Information Systems student at São Paulo Informatics and Administration College (FIAP).<br> Software Developer specializing in Cloud, SRE/DevOps & Security.**
+- **💻 DevOps Engineer at a ESG startup, Information Systems student, SRE and Scurity enthusiast, Formula 1 aficionado.**
 
 - 👨‍💻 A little more about me at [fcelas.github.io](fcelas.github.io)
 
-- 📜 Currently I'm **1x AWS Certificated**
+- 📜 **Google Associate Cloud Engineer**
 
 - 📫 How to reach me **fcelasaraiva@proton.me**
 
